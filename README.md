@@ -5,9 +5,9 @@
 ## I am Student, Developer and a Tech Enthusiast!
 
 ## B.Tech in Information Technology (ETA - 2023) 
-
-I am Aman, currently pursuing my Bachelor's Degree in Information Technology. I am a Tech Enthusiast from India. I am open to collaborate on projects and feel Free to Contact me.
-
+<p>
+I am Aman, currently pursuing my Bachelor's Degree in Information Technology. I am a Tech Enthusiast from <b>India</b>. I am open to collaborate on projects and feel Free to Contact me.
+</p>
 
 ---
  * 🔭 I'm currently learning React
