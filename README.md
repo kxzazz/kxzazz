@@ -2,7 +2,7 @@
 <img src = "https://github.com/codeph-0bia/codeph-0bia/blob/main/wave.gif" width = "30px">
 </h1>
 
-## I am Student, Developer and a Tech Enthusiast!
+## I am a Student, Developer and a Tech Enthusiast!
 
 ## B.Tech in Information Technology (ETA - 2023) 
 <p>
