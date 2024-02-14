@@ -20,5 +20,3 @@ I am Aman, currently pursuing my Bachelor's Degree in Information Technology. I 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kxzazz&show_icons=true&theme=radical ) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxzazz&theme=radical&layout=compact)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxzazz&theme=radical&layout=compact)
