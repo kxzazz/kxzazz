@@ -18,7 +18,7 @@ I am Aman, currently pursuing my Bachelor's Degree in Information Technology. I 
 <br>
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=codeph-0bia&show_icons=true&theme=radical )
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kxzazz&show_icons=true&theme=radical )
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeph-0bia&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxzazz&theme=radical&layout=compact)
