@@ -6,8 +6,10 @@
 
 ## B.Tech in Information Technology (ETA - 2023) 
 <p>
-I am Aman. 
-I am a Tech Enthusiast from <b>India</b>. I am open to collaborate on projects and feel Free to Contact me.
+I am Aman. <br>
+I am a Tech Enthusiast from <b>India</b>. 
+<br>
+  I am open to collaborate on projects and feel Free to Contact me.
 </p>
 
 ---
