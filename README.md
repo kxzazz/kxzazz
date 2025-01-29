@@ -1,5 +1,5 @@
 <h1 align="center"> Hello There! 
-<img src = "https://github.com/codeph-0bia/codeph-0bia/blob/main/wave.gif" width = "10px">
+<img src = "https://github.com/codeph-0bia/codeph-0bia/blob/main/wave.gif" width = "25px">
 </h1>
 
 ## I am a Full-Stack Web Developer and a Tech Enthusiast!
